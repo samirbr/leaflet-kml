@@ -1,0 +1,8 @@
+{
+  "name": "toKML",
+  "version": "1.0.0",
+  "description": "Converts a Leaflet map to KML",
+  "main": "index.js",
+  "author": "Samir El Aouar <samirbr@gmail.com>",
+  "license": "MIT"
+}
